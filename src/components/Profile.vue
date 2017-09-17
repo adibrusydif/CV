@@ -44,7 +44,7 @@ export default {
         {text:'adibrusydif@gmail.com', icon:'mail', link:'mailto:adibrusydif@gmail.com?Subject=Hello!'},
         // {text:'imartic.github.io', icon:'language', link:'https://imartic.github.io'},
         {text:'+628 1234 000 995', icon:'phone'},
-        {text:'adibrusydif', icon:'fa fa-instagram', fa:'instagram'},
+        {text:'adibrusydif', icon:'fa fa-instagram', fa:'instagram',link:'https://www.instagram.com/adibrusydif/'},
         {text:'LinkedIn profile', icon:'fa fa-linkedin', fa:'linkedin', link:'https://www.linkedin.com/in/adib-rusydi-fikri-90595712b/'},
         {text:'GitHub profile', icon:'fa fa-github', fa:'github', link:'https://github.com/adibrusydif'}
       ],

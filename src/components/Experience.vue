@@ -48,10 +48,10 @@ export default {
             logo:tcid_logo,
             pos:'Front End Developer',
             time:'Feb 2017 - Sep 2017',
-            text:'Working as Software Developer in Research & Development department at Alarm automatika d.o.o. ' +
-                'Worked on several different projects and the ones I worked most on are a self-ticketing cashier for parking lots and a web application ' +
-                'for event management (ticketing system) and supervision. For development I mainly used C#, JavaScript/jQuery, ' +
-                'HTML, CSS and Microsoft SQL Server.' +
+            text:'Working as Front End Developer in Coding department at Transcosmos Indonesia ' +
+                'Worked on several different projects and the ones I worked most on are a build website and digital marketing ' +
+                'For development I mainly used, JavaScript/jQuery, ' +
+                'HTML, CSS' +
                 '<br/>Company website: <a href="https://www.trans-cosmos.co.id">https://www.trans-cosmos.co.id</a>'
         },
         {

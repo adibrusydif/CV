@@ -50,7 +50,7 @@ export default {
              'Dota 2 and CSGO).',
       getInTouch: `If you want to get in touch with me, feel free to
              <a href="mailto:adibrusydif@gmail.com?Subject=Hello!">send me a mail</a>.`,
-      techIUse: ['C','MS SQL Server','HTML','CSS','JavaScript','Vue.js','bootstrap','PHP'],
+      techIUse: ['C','HTML','CSS','JavaScript','Vue.js','bootstrap','PHP'],
       langsISpeak: ['English','Javanese','Indonesia']
     }
   },
