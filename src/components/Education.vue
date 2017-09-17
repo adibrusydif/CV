@@ -55,8 +55,8 @@ export default {
             logo:'',
             degree:'Computer Science',
             time:'August 2014 - August 2018',
-            text:'Exchange semester at TH Wildau.<br/>' +
-                'Software project (JavaFX) and German language.' +
+            text:'Major in School of Computer Scince/Infomation Technology<br/>' +
+                'Learn many thing about technology especially at web developing' +
                 '<br/>University website: <a href="http://www.binus.ac.id">http://www.binus.ac.id</a>'
         }
       ]
